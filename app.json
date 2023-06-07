@@ -5,7 +5,12 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "630dddc2-c951-4568-9e3c-2aac6a5175f5"
+      }
+    }
   },
   "name": "peach-take-home-front-end"
 }
